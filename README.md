@@ -85,8 +85,6 @@ The system consists of three main modules:
 
 ## Circuit Diagram
 
-*(Insert the image of your circuit diagram here)*
-
 * **VCC** of sensor → 5V of ESP32
 * **GND** of sensor → GND of ESP32
 * **TRIG** → GPIO 5
