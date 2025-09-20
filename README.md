@@ -133,7 +133,7 @@ The system consists of three main modules:
 
 ## Authors
 
-* **Aman Vishwash Singh** – Embedded Systems & IoT Developer
+* **Aman Vishwash Singh** – Embedded Engineer
 
 ---
 
